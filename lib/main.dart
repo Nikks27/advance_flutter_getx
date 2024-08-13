@@ -1,5 +1,5 @@
 
-import 'package:advance_flutter_getx/screens/View/Count_HomePage.dart';
+import 'package:advance_flutter_getx/EMPLOYEE%20MANAGEMENT%20SYSTEM%20USING%20GETX/View/Employe_HomePage.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:get/get_navigation/src/routes/get_route.dart';
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
       getPages: [
-        GetPage(name: '/', page: () => CounterPage(),),
+        GetPage(name: '/', page: () => Homepage(),),
       ],
     );
   }
