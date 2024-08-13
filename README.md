@@ -1,16 +1,29 @@
-# advance_flutter_getx
+# Getx
 
-A new Flutter project.
+<h1 align="center"> 1.Counter App</h1>
 
-## Getting Started
+<h1 align="left"></h1>
 
-This project is a starting point for a Flutter application.
+<div align ="center">
 
-A few resources to get you started if this is your first Flutter project:
+  <img src = "https://github.com/user-attachments/assets/6a0181c2-64f5-4902-9159-a804efbf11e7" height ="550">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/658b6ea9-e1f8-44ea-b63f-c08cac70b9f8
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>
+
+<h1 align="center"> 1.Employe Details</h1>
+
+<h1 align="left"></h1>
+
+<div align ="center">
+
+  <img src = "https://github.com/user-attachments/assets/c36e94e1-e1b6-41b1-9336-b4f3f3148f61" height ="550">
+  <img src = "https://github.com/user-attachments/assets/c7053d5e-950b-4a07-8097-ef296c72cb79" height ="550">
+
+
+https://github.com/user-attachments/assets/d9fecadb-192c-4075-9954-758d5c95f7bc
+
+
+</div>
+
